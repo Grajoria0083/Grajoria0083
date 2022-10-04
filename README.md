@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gauravrajoria17@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1B0cxQ6NzVwlhT6SZR_-KJWGqUvEaO1jk/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
