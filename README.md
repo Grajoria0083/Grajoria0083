@@ -14,7 +14,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 📫 How to reach me **gauravrajoria17@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
