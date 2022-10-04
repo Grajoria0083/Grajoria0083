@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">I'm Gaurav Singh and I'm a Problem |
+<h3 align="center">
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grajoria0083&label=Profile%20views&color=0e75b6&style=flat" alt="grajoria0083" /> </p>
@@ -8,13 +8,13 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 🌱 I’m currently learning **java,spring,sql**
 
-- 👨‍💻 All of my projects are available at https://gauravportfolio0083.netlify.app/
+- 👨‍💻 All of my projects are available at [portfolio](https://gauravportfolio0083.netlify.app/)
 
 - 💬 Ask me about **java, sql, dsa**
 
 - 📫 How to reach me **gauravrajoria17@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
