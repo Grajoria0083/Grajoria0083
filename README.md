@@ -8,13 +8,13 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 🌱 I’m currently learning **java,spring,sql**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://gauravportfolio0083.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://gauravportfolio0083.netlify.app)
 
 - 💬 Ask me about **java, sql, dsa**
 
 - 📫 How to reach me **gauravrajoria17@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing/)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1p8UjFf9xoRk-3QfVKuzNUddFZom5wV0T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
