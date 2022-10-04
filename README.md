@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate java backend developer from India.</h3>
+<h3 align="center">A passionate java backend developer from India. 
+I'm Gaurav Singh and I'm a Problem |
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grajoria0083&label=Profile%20views&color=0e75b6&style=flat" alt="grajoria0083" /> </p>
 
