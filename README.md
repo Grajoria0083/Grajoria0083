@@ -8,7 +8,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 🌱 I’m currently learning **java,spring,sql**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://gauravportfolio0083.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://gaurav-singh0083-portfolio.netlify.app/)
 
 - 💬 Ask me about **java, sql, dsa**
 
